@@ -1,0 +1,154 @@
+.top-cloud {
+  height: 6.25rem;
+  width: 6.25rem;
+  position: absolute;
+  top: 20px;
+  right:300px;
+}
+
+.bottom-cloud {
+  height: 6.25rem;
+  width: 6.25rem;
+  position: absolute;
+  bottom:300px;
+  left:300px;
+}
+
+.top-container {
+  padding-top: 50px;
+  background-color: #EFFFFD;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #FFF8F3;
+  padding: 80px 0;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 40px 0 20px;
+}
+
+body {
+  color: #40514e;
+  text-align: center;
+  margin: 0;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.name {
+  margin-top: 30px;
+  color: #eaf6f6;
+  font-size:0.85rem;
+  padding:10px 0;
+}
+
+h1 {
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color: #66BFBF
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #66BFBF
+}
+
+h3 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  letter-spacing: -1px;
+  color: #11999E;
+}
+
+.hill {
+  width: 50%;
+  margin-top: 50px;
+}
+
+.cave-man {
+  width: 20%;
+  height: 20%;
+}
+
+.help {
+  line-height: 2;
+  margin: 40px auto 60px;
+  width: 30%;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.web {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.game {
+  margin-left: 30px;
+  width: 25%;
+  float: right;
+}
+
+.btn {
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #4D96FF;
+  padding: 10px 20px 10px 25px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #6BCB77;
+  text-decoration: none;
+}
+
+.intro {
+  font-size: 1.2rem;
+  color: #40514E
+}
+
+hr {
+  margin: 80px auto 80px auto;
+  border-color: #D3DEDC;
+  border-style: dotted;
+  border-width: thick;
+  height: 0;
+  border-top: hidden;
+  width: 3%;
+}
+
+a {
+  font-family: 'Oxygen', sans-serif;
+text-decoration: none;}
+
+.Skill {
+  padding-top: 30px;
+}
+
+.twtr {
+  color: #11999E;
+  margin-left: 50px;
+}
+
+.fb {
+  color: #11999E;
+}
+a:hover{
+  color:#eaf6f6;
+}
